@@ -1,0 +1,16 @@
+# 🔒 보안 파일 - 절대 GitHub에 올리지 않음
+.env
+*.json
+!package.json
+service-account*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# System
+.DS_Store
+Thumbs.db
