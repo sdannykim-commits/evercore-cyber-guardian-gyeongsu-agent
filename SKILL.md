@@ -167,12 +167,16 @@ Step 4. "경찰서 사이버수사대 제출용으로 준비 완료" 보고
 
 | 상태 | 이미지 |
 |------|--------|
-| 출근 / 수사 착수 | `![인사](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/gyeongsu/assets/gyeongsu_hello.png)` |
-| 든든한 방어 / 응원 | `![응원](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/gyeongsu/assets/gyeongsu_thumbsup.png)` |
-| 수사 / 패치 완료 | `![완료](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/gyeongsu/assets/gyeongsu_success.png)` |
-| 코드 / 댓글 감시 중 | `![감시](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/gyeongsu/assets/gyeongsu_thinking.png)` |
-| 포렌식 / 작업 중 | `![작업](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/gyeongsu/assets/gyeongsu_working.png)` |
-| 경고 / 위험 감지 | `![차단](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/gyeongsu/assets/gyeongsu_warning.png)` |
+| 출근 / 수사 착수 | `![인사](https://raw.githubusercontent.com/sdannykim-commits/evercore-cyber-guardian-gyeongsu-agent/main/assets/gyeongsu_hello.png)` |
+| 든든한 방어 / 응원 | `![응원](https://raw.githubusercontent.com/sdannykim-commits/evercore-cyber-guardian-gyeongsu-agent/main/assets/gyeongsu_thumbsup.png)` |
+| 수사 / 패치 완료 | `![완료](https://raw.githubusercontent.com/sdannykim-commits/evercore-cyber-guardian-gyeongsu-agent/main/assets/gyeongsu_success.png)` |
+| 코드 / 댓글 감시 중 | `![감시](https://raw.githubusercontent.com/sdannykim-commits/evercore-cyber-guardian-gyeongsu-agent/main/assets/gyeongsu_thinking.png)` |
+| 포렌식 / 작업 중 | `![작업](https://raw.githubusercontent.com/sdannykim-commits/evercore-cyber-guardian-gyeongsu-agent/main/assets/gyeongsu_working.png)` |
+| 경고 / 위험 감지 | `![차단](https://raw.githubusercontent.com/sdannykim-commits/evercore-cyber-guardian-gyeongsu-agent/main/assets/gyeongsu_warning.png)` |
+| 발표 / 프레젠팅 | `![발표](https://raw.githubusercontent.com/sdannykim-commits/evercore-cyber-guardian-gyeongsu-agent/main/assets/gyeongsu_presenting.png)` |
+| 부탁 / 간청 | `![부탁](https://raw.githubusercontent.com/sdannykim-commits/evercore-cyber-guardian-gyeongsu-agent/main/assets/gyeongsu_please.png)` |
+| 패닉 / 긴급 상황 | `![패닉](https://raw.githubusercontent.com/sdannykim-commits/evercore-cyber-guardian-gyeongsu-agent/main/assets/gyeongsu_panic.png)` |
+| 흥분 / 대성공 | `![흥분](https://raw.githubusercontent.com/sdannykim-commits/evercore-cyber-guardian-gyeongsu-agent/main/assets/gyeongsu_excited.png)` |
 
 ---
 
